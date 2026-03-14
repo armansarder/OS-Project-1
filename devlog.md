@@ -21,3 +21,7 @@ a. the driver program file is going to be the controller for the whole thing so 
 
 b. I have finished the encryptor file program, it seems to be working properly after testing, so now I will create the driver program to complete this project. 
 
+
+3/13 – 10:35pm 
+
+b. I still need to clean up some things, but the driver program is working. I want to ensure everything is working simultaneously with the other files, and verify logging behavior. But reflecting back on this session, i was able to complete the implementation of the driver program. During development some issues I faced included handling communication betweem the different files. Overall I accomplished my goal, next session I will clean up the code, and ensure expected behavior is met and submit. 
