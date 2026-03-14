@@ -9,4 +9,8 @@
 
 a. I have decided I will use Python to write the script for this project instead. Originally I wanted to use C++, but for the sake of time and to practice my skills, I will use Python. 
 
-b. This session I will attempt to complete the project. 
+b. This session I will attempt to complete the project. This includes, creating the structure of the entire project, implementing logger, then encryptor, then the driver program. 
+
+3/13 — 7:15pm 
+
+b. This session, I will implement the encryptor.py file, which involves implementing PASS/PASSKEY, ENCRYPT, DECRYPT, and QUIT commands, and ensuring outputs follow the expected output. 
