@@ -14,3 +14,10 @@ b. This session I will attempt to complete the project. This includes, creating 
 3/13 — 7:15pm 
 
 b. This session, I will implement the encryptor.py file, which involves implementing PASS/PASSKEY, ENCRYPT, DECRYPT, and QUIT commands, and ensuring outputs follow the expected output. 
+
+3/13 – 8:30pm 
+
+a. the driver program file is going to be the controller for the whole thing so I need to make sure it integrates with the other files, as the driver program will be launching other programs and communicating with everything with pipes. 
+
+b. I have finished the encryptor file program, it seems to be working properly after testing, so now I will create the driver program to complete this project. 
+
